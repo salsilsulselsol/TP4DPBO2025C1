@@ -5,7 +5,7 @@ Tugas Praktikum 4 Dasar Pemrograman Berbasis Objek (DPBO)
 Saya Faisal Nur Qolbi dengan NIM 2311399 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
-Program kali ini dibuat dengan GUI Java Swing (dengan event handling juga) dengan menggunakan IntelliJ IDEA, dimana ada 2 class yaitu `Menu` dan `Mahasiswa` berikut detailnya:
+Program kali ini dibuat dengan GUI Java Swing (ada event handling juga) dengan menggunakan IntelliJ IDEA, dimana ada 2 class yaitu `Menu` dan `Mahasiswa` berikut detailnya:
 
 ## Class
 1. **Mahasiswa** - Model data yang berisi informasi mahasiswa
