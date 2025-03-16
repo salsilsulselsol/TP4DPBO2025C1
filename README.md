@@ -43,3 +43,6 @@ Program kali ini dibuat dengan GUI Java Swing (dengan event handling juga) denga
    - Menghapus data: pilih/klik data dari tabel → klik `Delete` → konfirmasi → deleteData() → refresh tabel
    - Membatalkan input: klik `Cancel` → clearForm()
 4. Setiap operasi CRUD diakhiri dengan refresh tabel dan feedback ke user untuk memperbarui tabel data
+
+# Dokumentasi
+https://github.com/user-attachments/assets/79c7cf23-c4a5-4e23-bb09-48548f7a5131
